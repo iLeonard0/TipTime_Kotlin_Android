@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">TipTime</string>
+    <string name="app_name">SmarTip</string>
     <string name="tip_amount_s">Tip Amount: %s</string>
     <string name="amazing_20">Amazing (20%)</string>
     <string name="good_18">Good (18%)</string>
